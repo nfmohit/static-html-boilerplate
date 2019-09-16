@@ -21,6 +21,8 @@
     "homepage": "https://github.com/nfmohit-wpmudev/static-html-boilerplate",
     "devDependencies": {
         "@fortawesome/fontawesome-free": "^5.10.2",
+        "browser-sync": "^2.26.7",
+        "browser-sync-webpack-plugin": "^2.2.2",
         "css-loader": "^1.0.0",
         "extract-text-webpack-plugin": "^4.0.0-beta.0",
         "file-loader": "^1.1.11",
