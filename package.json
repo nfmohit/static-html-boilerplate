@@ -20,22 +20,22 @@
     },
     "homepage": "https://github.com/nfmohit-wpmudev/static-html-boilerplate",
     "devDependencies": {
-        "@fortawesome/fontawesome-free": "^5.10.2",
+        "@fortawesome/fontawesome-free": "^5.11.2",
         "browser-sync": "^2.26.7",
         "browser-sync-webpack-plugin": "^2.2.2",
         "css-loader": "^1.0.0",
         "extract-text-webpack-plugin": "^4.0.0-beta.0",
         "file-loader": "^1.1.11",
-        "node-sass": "^4.9.3",
-        "resolve-url-loader": "^3.0.0-alpha.1",
-        "sass-loader": "^7.1.0",
+        "node-sass": "^4.13.0",
+        "resolve-url-loader": "^3.1.1",
+        "sass-loader": "^7.3.1",
         "style-loader": "^0.22.1",
-        "webpack": "^4.16.5",
-        "webpack-cli": "^3.1.0"
+        "webpack": "^4.41.2",
+        "webpack-cli": "^3.3.10"
     },
     "dependencies": {
-        "bootstrap": "^4.3.1",
+        "bootstrap": "^4.4.1",
         "jquery": "^3.4.1",
-        "popper.js": "^1.15.0"
+        "popper.js": "^1.16.0"
     }
 }
